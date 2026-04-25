@@ -11,7 +11,7 @@ author:
 
 ## Title
 lang: ru-RU
-fontenc: T2A
+fontenc: T2AQ
 mainfont: "DejaVu Serif"
 sansfont: "DejaVu Sans"
 monofont: "DejaVu Sans Mono"
